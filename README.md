@@ -1,6 +1,6 @@
 # Hi, I'm Luther 👋
 
-**AI Engineer focused on building production-ready AI applications** — RAG pipelines, LLM integrations, and full-stack systems that ship.
+**AI Engineer focused on building production-ready AI applications**: RAG pipelines, LLM integrations, and full-stack systems that ship.
 
 ---
 
