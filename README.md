@@ -15,7 +15,7 @@
 
 ## Featured Projects
 
-### [Docent AI](https://github.com/docent-ai)
+### Docent AI
 Multimodal document intelligence platform. Upload a document, ask questions, get cited answers.
 - RAG pipeline with PGVector, OpenAI embeddings, and cosine similarity retrieval
 - Streaming responses with source citations
@@ -35,7 +35,7 @@ Co-founded AI marketing platform with multi-agent content pipelines.
 
 ---
 
-### 📰 AI News Digest
+### AI News Digest
 Automated daily AI news aggregator with personalized delivery.
 - RSS scraping across YouTube, OpenAI, and Anthropic sources
 - GPT-4o summarization + curator agent for relevance ranking
@@ -45,7 +45,7 @@ Automated daily AI news aggregator with personalized delivery.
 
 ---
 
-### 📱 A Virtue a Day
+### A Virtue a Day
 Cross-platform mobile app for group-based daily exercises.
 
 **Stack:** React Native · Expo · TypeScript
