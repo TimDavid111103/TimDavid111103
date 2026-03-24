@@ -4,34 +4,39 @@
 
 ---
 
-## What I Build
+## What I Do
 
-- **RAG Systems** — end-to-end retrieval-augmented generation with vector databases, embeddings, hybrid search, and source-cited streaming responses
-- **LLM-Powered Backends** — FastAPI services that orchestrate OpenAI, Anthropic, and Gemini APIs in production workflows
-- **Full-Stack AI Apps** — Python backends paired with Next.js/TypeScript frontends and React Native mobile apps
-- **Multi-Agent Pipelines** — agentic workflows for content processing, ranking, and automated delivery
+- **RAG Systems**: end-to-end retrieval-augmented generation with vector databases, embeddings, hybrid search, and source-cited streaming responses
+- **LLM-Powered Backends**: FastAPI services that orchestrate OpenAI, Anthropic, and Gemini APIs in production workflows
+- **Full-Stack AI Apps**: Python backends paired with Next.js/TypeScript frontends, as well as Android/iOS React Native mobile apps
+- **Multi-Agent Pipelines**: agentic workflows for content processing, ranking, and automated delivery
 
 ---
 
 ## Featured Projects
 
 ### Docent AI
-Multimodal document intelligence platform. Upload a document, ask questions, get cited answers.
-- RAG pipeline with PGVector, OpenAI embeddings, and cosine similarity retrieval
-- Streaming responses with source citations
-- Separate FastAPI backend + Next.js/TypeScript frontend
+RAG-powered document intelligence platform. Upload a PDF or text file, ask questions, and get answers grounded in your source material with citations.
 
-**Stack:** Python · FastAPI · PostgreSQL · PGVector · OpenAI API · Next.js · TypeScript · Docker
+  - Built a full RAG pipeline using sliding-window chunking (512-token chunks, 64-token overlap), OpenAI embeddings, and pgvector cosine similarity retrieval
+  for semantically accurate answers
+  - Async document processing with FastAPI BackgroundTasks, streaming responses via SSE, and a polling state machine on the frontend for real-time status
+  updates
+  - Component-driven Next.js/TypeScript frontend with 16 typed components built around progressive disclosure, visual hierarchy, and consistent design tokens
+  via Tailwind CSS 4
+
+  Stack: Python · FastAPI · PostgreSQL · pgvector · OpenAI API · Next.js · React · TypeScript · Tailwind CSS · Docker
 
 ---
 
 ### Scale66
-Co-founded AI marketing platform with multi-agent content pipelines.
-- Multi-agent architecture using Anthropic + Gemini APIs
-- RAG with vector databases for context-aware generation
-- Containerized with Docker + PostgreSQL
+  Co-founded an AI SaaS that generates branded social media carousels from a single prompt.
+  - 5-stage multi-agent pipeline (format selection → template matching → copywriting → image generation)
+  - Reference image chaining keeps visual style consistent across all slides
+  - Full product: auth, Stripe subscriptions, cloud storage, and a Next.js frontend
 
-**Stack:** Python · FastAPI · Anthropic API · Gemini API · Docker · PostgreSQL
+  Stack: Python · FastAPI · Anthropic API · Gemini API · Next.js · Supabase · Stripe
+
 
 ---
 
@@ -46,9 +51,12 @@ Automated daily AI news aggregator with personalized delivery.
 ---
 
 ### A Virtue a Day
-Cross-platform mobile app for group-based daily exercises.
+  A mobile app for building ethical habits through group accountability and structured daily practice.
+  - Built with React Native & Expo, cross-platform, production-ready, with Supabase auth and real-time data
+  - Custom navigation architecture, drag-to-reorder exercises, and push notification scheduling
+  - End-to-end group workflow: create exercises, invite members, track daily progress with shared accountability
 
-**Stack:** React Native · Expo · TypeScript
+Stack: React Native · Expo · JavaScript · Supabase · PostgreSQL · Push Notifications
 
 ---
 
