@@ -75,7 +75,7 @@ Stack: React Native · Expo · JavaScript · Supabase · PostgreSQL · Push Noti
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-black?style=flat)
 ![LangChain](https://img.shields.io/badge/RAG%20%2F%20Vector%20DB-PGVector-blue?style=flat)
 
-**Backend & Infra**
+**Backend & Infrastructure**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
