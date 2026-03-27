@@ -4,11 +4,12 @@
 I approach every problem top-down, defining what actually needs to be built before writing a line of code. My background in Computer Science and Philosophy gives me the ability to see the bigger picture, articulate abstract concepts clearly, and translate technical decisions into real business impact. I've co-founded a startup, won a pitch competition, and managed a cross-functional team from idea to product.
 
 ---
-## What I Do
-- **RAG Systems**: end-to-end retrieval-augmented generation with vector databases, embeddings, hybrid search, and source-cited streaming responses
-- **LLM-Powered Backends**: FastAPI services that orchestrate OpenAI, Anthropic, and Gemini APIs in production workflows
-- **Full-Stack AI Apps**: Python backends paired with Next.js/TypeScript frontends, as well as Android/iOS React Native mobile apps
-- **Multi-Agent Pipelines**: agentic workflows for content processing, ranking, and automated delivery
+## What I Build
+- **Production RAG Systems**: full pipeline architecture from document ingestion and chunking through embedding, vector retrieval, and source-cited streaming responses delivered to real users
+- **LLM-Powered Backends**: FastAPI services that orchestrate multiple foundation models (OpenAI, Anthropic, Gemini) into reliable, scalable production workflows
+- **Full-Stack AI Applications**: end-to-end products spanning Python backends, Next.js/TypeScript frontends, and cross-platform iOS/Android mobile apps
+- **Multi-Agent Systems**: agentic pipelines that automate complex multi-step workflows, from content processing and relevance ranking to personalized delivery
+- **AI SaaS Products**: co-founded and shipped a commercial AI product with auth, payments, cloud storage, and a generative multi-agent core
 
 ---
 ## Featured Projects
