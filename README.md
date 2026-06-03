@@ -30,25 +30,8 @@ Co-founded an AI SaaS that generates branded social media carousels from a singl
 
   Stack: Python · FastAPI · Anthropic API · Gemini API · Next.js · Supabase · Stripe
 
----
-### AI News Digest
-Automated daily AI news aggregator with personalized delivery.
-- RSS scraping across YouTube, OpenAI, and Anthropic sources with resilient, production-stable architecture
-- GPT-4o summarization + curator agent for relevance ranking against a user interest profile
-- Automated Gmail delivery via SMTP with styled HTML email generation
 
-**Stack:** Python · OpenAI API · PostgreSQL · feedparser · Gmail SMTP
-
----
-### A Virtue a Day
-A mobile app for building ethical habits through group accountability and structured daily practice.
-  - Built with React Native & Expo, cross-platform iOS and Android, production-ready with Supabase auth and real-time data
-  - Custom navigation architecture, drag-to-reorder exercises, and push notification scheduling
-  - End-to-end group workflow: create exercises, invite members, track daily progress with shared accountability
-
-  Stack: React Native · Expo · JavaScript · Supabase · PostgreSQL · Push Notifications
 
 ---
 ## Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-timlutherdavid.com-000000?style=flat&logo=safari&logoColor=white)](https://timlutherdavid.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tldavid-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tldavid)
